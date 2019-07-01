@@ -10,19 +10,18 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.loogn.net/my-github-repos)
-* [Ocelot中文文档三](http://www.loogn.net/ocelot3)
-* [Ocelot中文文档二](http://www.loogn.net/ocelot2)
-* [Ocelot中文文档一](http://www.loogn.net/ocelot1)
-* [让ORM支持多结果集](http://www.loogn.net/articles/2019/07/01/1561944940892.html)
-* [缓存键的设计](http://www.loogn.net/cachekey)
-* [MD5和DES加密在.net和java中的实现](http://www.loogn.net/articles/2019/07/01/1561944169447.html)
-* [一个通用的计数限制解决方案](http://www.loogn.net/countlimit)
-* [《太上老君说常清静经》](http://www.loogn.net/qingjingjing)
-* [使用netcore实现统一文件上传服务](http://www.loogn.net/uploadserver)
-* [记忆青海湖](http://www.loogn.net/qinghaihu)
-* [使用Autowired.Core实现字段和属性注入](http://www.loogn.net/autowired)
-* [Loogn.OrmLite文档](http://www.loogn.net/orm)
+* [Ocelot中文文档三](https://www.loogn.net/ocelot3)
+* [Ocelot中文文档二](https://www.loogn.net/ocelot2)
+* [Ocelot中文文档一](https://www.loogn.net/ocelot1)
+* [让ORM支持多结果集](https://www.loogn.net/articles/2019/07/01/1561944940892.html)
+* [缓存键的设计](https://www.loogn.net/cachekey)
+* [MD5和DES加密在.net和java中的实现](https://www.loogn.net/articles/2019/07/01/1561944169447.html)
+* [一个通用的计数限制解决方案](https://www.loogn.net/countlimit)
+* [《太上老君说常清静经》](https://www.loogn.net/qingjingjing)
+* [使用netcore实现统一文件上传服务](https://www.loogn.net/uploadserver)
+* [记忆青海湖](https://www.loogn.net/qinghaihu)
+* [使用Autowired.Core实现字段和属性注入](https://www.loogn.net/autowired)
+* [Loogn.OrmLite文档](https://www.loogn.net/orm)
 
 
 
