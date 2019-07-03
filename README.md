@@ -17,7 +17,6 @@
 * [缓存键的设计](https://www.loogn.net/cachekey)
 * [MD5和DES加密在.net和java中的实现](https://www.loogn.net/articles/2019/07/01/1561944169447.html)
 * [一个通用的计数限制解决方案](https://www.loogn.net/countlimit)
-* [《太上老君说常清静经》](https://www.loogn.net/qingjingjing)
 * [使用netcore实现统一文件上传服务](https://www.loogn.net/uploadserver)
 * [记忆青海湖](https://www.loogn.net/qinghaihu)
 * [使用Autowired.Core实现字段和属性注入](https://www.loogn.net/autowired)
