@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [在.Net Core中调用NodeJs](https://www.loogn.net/articles/2019/07/04/1562236567051.html)
 * [Ocelot中文文档三](https://www.loogn.net/ocelot3)
 * [Ocelot中文文档二](https://www.loogn.net/ocelot2)
 * [Ocelot中文文档一](https://www.loogn.net/ocelot1)
