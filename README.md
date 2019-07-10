@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Jitsi Meet的安装记录](https://www.loogn.net/jitsi-meet)
 * [ubuntu国内源收藏](https://www.loogn.net/articles/2019/07/09/1562635389870.html)
 * [dotnet应用程序级别的事件发布和订阅](https://www.loogn.net/articles/2019/07/08/1562570149531.html)
 * [在.Net Core中调用NodeJs](https://www.loogn.net/articles/2019/07/04/1562236567051.html)
