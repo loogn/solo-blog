@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [About Me](https://www.loogn.net/articles/2019/07/16/1563261193567.html)
 * [使nginx支持a标签下载文件](https://www.loogn.net/articles/2019/07/11/1562813819655.html)
 * [Jitsi Meet的安装记录](https://www.loogn.net/jitsi-meet)
 * [ubuntu国内源收藏](https://www.loogn.net/articles/2019/07/09/1562635389870.html)
@@ -27,6 +26,7 @@
 * [记忆青海湖](https://www.loogn.net/qinghaihu)
 * [使用Autowired.Core实现字段和属性注入](https://www.loogn.net/autowired)
 * [Loogn.OrmLite文档](https://www.loogn.net/orm)
+* [About Me](https://www.loogn.net/about)
 
 
 
