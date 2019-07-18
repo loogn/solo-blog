@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [nginx中location的匹配规则](https://www.loogn.net/articles/2019/07/17/1563358152945.html)
 * [使nginx支持a标签下载文件](https://www.loogn.net/articles/2019/07/11/1562813819655.html)
 * [Jitsi Meet的安装记录](https://www.loogn.net/jitsi-meet)
 * [ubuntu国内源收藏](https://www.loogn.net/articles/2019/07/09/1562635389870.html)
