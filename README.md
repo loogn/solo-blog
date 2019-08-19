@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [应用程序级别的事件发布和订阅](http://www.loogn.net/AppEventService)
 * [nginx中location的匹配规则](http://www.loogn.net/articles/2019/07/17/1563358152945.html)
 * [About Me](http://www.loogn.net/about)
 * [使nginx支持a标签下载文件](http://www.loogn.net/articles/2019/07/11/1562813819655.html)
