@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.loogn.net/my-github-repos)
+* [用户点赞收藏浏览等记录的统一解决方案](http://www.loogn.net/tracerecord)
 * [应用程序级别的事件发布和订阅](http://www.loogn.net/AppEventService)
 * [nginx中location的匹配规则](http://www.loogn.net/articles/2019/07/17/1563358152945.html)
 * [About Me](http://www.loogn.net/about)
@@ -28,6 +30,9 @@
 * [使用netcore实现统一文件上传服务](http://www.loogn.net/uploadserver)
 * [记忆青海湖](http://www.loogn.net/qinghaihu)
 * [使用Autowired.Core实现字段和属性注入](http://www.loogn.net/autowired)
+
+### 热门
+
 * [Loogn.OrmLite文档](http://www.loogn.net/orm)
 
 
